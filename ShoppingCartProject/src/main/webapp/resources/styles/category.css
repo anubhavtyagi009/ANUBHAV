@@ -1,0 +1,8 @@
+@CHARSET "ISO-8859-1";
+
+.form-group input[type=text]{
+	
+	border: 1px solid red;
+	padding: 10px;
+	
+}
